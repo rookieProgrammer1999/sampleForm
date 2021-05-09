@@ -7,6 +7,9 @@
     margin: auto;
     background-color: rgb(131, 23, 177);
     line-height: 30px;
+    background-image: url(./Assets/819305.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .input {
